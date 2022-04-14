@@ -1,7 +1,7 @@
-<h1 align="center">💻 Portifolio Pessoal 💻</h1>
+<h1 align="center">🌭 Site de Comidas 🥓</h1>
 
 <h3 align="center">
-    🍟 Veja o menu de nosso restaurante! 🍔 </br></br></br>
+    🍟 Vai um hamburguer ou batata frita? 🍔 </br></br></br>
 </h3>
 
 
@@ -16,8 +16,7 @@
 </p>
 
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/857822189390135296/963847860410011648/Peek_13-04-2022_14-06.gif?width=705&height=297"/>
-    <h3>christianwagner.tech</h3>
+    <img src="https://cdn.discordapp.com/attachments/857822189390135296/964184267271860295/foods.gif"/>
 </div>
 ---
 
