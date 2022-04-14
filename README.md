@@ -46,7 +46,7 @@ Com o objetivo de aumentar meu conhecimento e pratica com o HTML e o CSS, surgiu
 
 <div id="pre-req"></div>
 
-<h2>✈🍟 Pré Requisitos ✈🍟</h2>
+<h2>🍟 Pré Requisitos 🍟</h2>
 
 Para iniciar a aplicação é necessario ter em sua maquina apenas um navegador.
 
